@@ -1,0 +1,34 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#topHeader{
+    margin-left: 25%;
+    font-size: 26px;
+}
+
+section header h1{
+    margin: 0%;
+    display: inline-block;
+}
+
+section header img{
+    width: 100px;
+    height: auto;  
+}
+section nav{
+    border: 3px dotted red;
+}
+
+section nav ul{
+    padding: 0px;
+    margin-left: 25%;
+}
+
+section nav li{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
