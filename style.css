@@ -32,3 +32,21 @@ section nav li{
     font-size: 20px;
 }
 
+section header{
+    font-size: 20px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 10px red;
+}
+
+section header article{
+    font-size: 18px; 
+    color: yellow;
+    text-decoration: underline red;
+}
+
+video{
+    width: 100px;
+    height:auto;
+}
+
