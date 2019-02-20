@@ -46,7 +46,23 @@ section header article{
 }
 
 video{
-    width: 100px;
+    width: 100%;
     height:auto;
+}
+
+content{
+    display:inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+
+aside{
+    display: inline-block;
+    vertical-align: top;
+}
+
+section header li{
+    font-size: 20px;
+    color: green;
 }
 
